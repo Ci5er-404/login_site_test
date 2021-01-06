@@ -2,5 +2,4 @@
 
 Created by Daipayan Ghosal on 07.01.2021
 
-Backend: Django
-Frontend: HTML with Bootstrap
+Backend: <code>Django</code><br>Frontend: <code>HTML</code> | <code>Bootstrap</code> | <code>CSS</code>
